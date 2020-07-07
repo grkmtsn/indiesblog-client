@@ -1,0 +1,12 @@
+:root {
+  --body-bg: #10242D;
+  --header-bg: #0D1D24;
+  --menu-bg: #0F2027;
+  --card-bg: #16313E;
+  --card-bg-hover: #1C3F50;
+  --light-green-text: #C2FFAC;
+  --dark-green-text: #43C6AC;
+  --white-text: #CCCCCC;
+  --main-gradient-start: 67, 198, 172;
+  --main-gradient-end: 248, 255, 174;
+}
